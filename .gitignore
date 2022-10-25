@@ -1,1 +1,2 @@
 *.h5
+/flask-integration/*.h5
